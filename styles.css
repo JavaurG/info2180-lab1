@@ -1,0 +1,16 @@
+/* Styling for h1 */
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+/* Styling for h2 */
+h2 {
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+/* Styling for paragraph */
+p {
+    font-size: 18px;
+}
